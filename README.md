@@ -3,7 +3,7 @@
 
 
 ## About Me
-- 🔭 Research Intern at **Samsung Reserach Institute - Bengalore**
+- 🔭 Research Intern at **Samsung Reserach Institute - Bangalore**
 - 💻 Passionate about developing innovative solutions.
 - 👀 Interested in **Machine Learning** 
 - ⚙️ Active contributor to projects and always exploring new technologies.
@@ -74,6 +74,13 @@
   </tr>
 </table>
 </div>
+
+
+## Github Stats
+<p>
+  <img height="180em" src="https://shivansh12t-readme-stats.vercel.app?user=shivanshg29&theme=python-dark&date_format=M%20j%5B%2C%20Y%5D"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shivanshg29&theme=chartreuse_dark"/>
+</p>
 
 
 

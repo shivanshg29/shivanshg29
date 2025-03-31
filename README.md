@@ -74,11 +74,6 @@ me.say_hi()
 </div>
 
 <div align="center">
-  <img height="180em" src="https://shivansh12t-readme-stats.vercel.app?user=shivanshg29&theme=python-dark&date_format=M%20j%5B%2C%20Y%5D"/>
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shivanshg29&theme=chartreuse_dark"/>
-</div>
-
-<div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=shivanshg29&theme=algolia&no-frame=true&row=1&column=7" alt="trophy" />
 </div>
 
@@ -93,15 +88,6 @@ me.say_hi()
   </a>
   <a href="https://github.com/shivanshg29">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://twitter.com/shivanshg29">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
-  <a href="https://medium.com/@shivanshg29">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
-  </a>
-  <a href="https://dev.to/shivanshg29">
-    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/>
   </a>
 </div>
 
